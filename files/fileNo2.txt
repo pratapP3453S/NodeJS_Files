@@ -1,0 +1,1 @@
+this is the universal text used for all files in the files directory for example purpose
